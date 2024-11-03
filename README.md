@@ -5,32 +5,31 @@
 I'm a Software Engineer at Envoy Advanced Technologies, where I develop full-stack web and mobile applications. I have experience in:
 
 - 🐍 Python
+- 🟨 JavaScript/TypeScript
 - ⚛️ React/React Native
-- 🌐 .NET
 - 🌀 Git
 - 🐳 Docker
-- 🟨 JavaScript/TypeScript
 - 🐧 Linux (RHEL)
-- ☁️ Cloud Virtual Machines (VMware, Azure)
+- ☁️ Hosting (Virtual Machines, Serverless)
 
 ## 🔧 Top Skills
 
-- React.js
+- React (Next.js)
 - React Native
-- .NET Core
-- Python
 - TypeScript
+- Python
+- AI (LLM Interfaces)
 
 ## 🎓 Education
 
 - 🎓 Bachelor of Engineering in Network and Software Engineering, University of Canberra
-- 🎓 Master of Computer Science (in progress), specializing in Artificial Intelligence, Monash University
+- 🎓 Master of Computer Science (Graduating in 2026), specializing in Artificial Intelligence, Monash University
 
 ## 💼 Professional Experience
 
 ### Software Engineer, Envoy Advanced Technologies
 *Mar 2023 - Present*
-- ASP.NET Core, React Native, and more
+- React Native, React, .NET development, and more
 
 ### Software Integration Engineer, IDEMIA
 *Jun 2022 - Mar 2023*
@@ -48,4 +47,4 @@ I'm a Software Engineer at Envoy Advanced Technologies, where I develop full-sta
 
 📍 Sydney, New South Wales, Australia
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 😊
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions.
