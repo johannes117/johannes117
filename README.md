@@ -27,7 +27,7 @@ I'm a Software Engineer at Envoy Advanced Technologies, where I develop full-sta
 
 ## 💼 Professional Experience
 
-### Software Engineer, Envoy Advanced Technologies
+### Software Engineer II, Envoy Advanced Technologies
 *Mar 2023 - Present*
 - React Native, React, .NET development, and more
 
