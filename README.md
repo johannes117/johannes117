@@ -2,7 +2,7 @@
 
 I'm a Software Engineer at Envoy Advanced Technologies, passionate about building full-stack web & mobile applications, with a growing focus on AI.
 
-My core toolkit includes **React (Next.js), React Native, TypeScript, Python, and exploring LLM Interfaces.**
+My core toolkit includes **React (Next.js), React Native, TypeScript, Python, Java, and C++.**
 
 ---
 
