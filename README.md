@@ -2,4 +2,4 @@
 
 I build software. 
 
-[duplessis.dev](https://duplessis.dev)**
+[duplessis.dev](https://duplessis.dev)
